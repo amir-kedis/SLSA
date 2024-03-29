@@ -30,3 +30,11 @@ camtrix
 ```
 
 <img src="./gifs/cmatrix.gif" align="center" />
+
+### want a train in your terminal
+
+```bash
+sl
+```
+
+<img src="./gifs/sl.gif" align="center" />
