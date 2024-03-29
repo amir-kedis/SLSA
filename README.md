@@ -64,3 +64,11 @@ fortune
 <img src="./gifs/fortune.png" align="center" />
 
 Ok that wasn't useful.
+
+### But if it was said by the wise cow:
+
+```bash
+fotune | cowsay
+```
+
+<img src="./gifs/fortune+cowsay.png" align="center" />
