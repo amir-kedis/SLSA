@@ -53,7 +53,7 @@ or
 cowthink <anything>
 ```
 
-<img src="./gifs/cowsay-cowthink.png" align="center" />
+<img src="./gifs/cowsay-cowthink.png" width="1000" align="center" />
 
 ### Wouldn't be great if you can know your fortune in you terminal?!
 
@@ -61,14 +61,22 @@ cowthink <anything>
 fortune
 ```
 
-<img src="./gifs/fortune.png" align="center" />
+<img src="./gifs/fortune.png" width="1000" align="center" />
 
 Ok that wasn't useful.
 
-### But if it was said by the wise cow:
+### But what if it was said by the wise cow:
 
 ```bash
-fotune | cowsay
+fortune | cowsay
 ```
 
-<img src="./gifs/fortune+cowsay.png" align="center" />
+<img src="./gifs/fortune+cowsay.png" width="1000" align="center" />
+
+### It needs more color doesn't it? how about more _lolcat_
+
+```bash
+fortune | cowsay | lolcat
+```
+
+<img src="./gifs/fortune+cowsay+lolcat.png" width="1000" align="center" />
