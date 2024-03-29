@@ -22,7 +22,7 @@ sudo apt insatall cmatrix cowsay fortune
 
 ## Let's start the ✨ _fun_ ✨
 
-<br /><br /><br /><br />
+<br /><br />
 
 ### The basics (cmatrix):
 
@@ -112,3 +112,21 @@ while true; do echo "$(date '+%D %T' | toilet -f term -F border --gay)"; sleep 1
 ```
 
 <img src="./gifs/toilet-clock.png" width="1000" align="center" />
+
+### Let's start the followers:
+
+1. Here are eyes that follows your mouth:
+
+```bash
+xeyes
+```
+
+<img src="./gifs/xyes.png" width="1000" align="center" />
+
+2. For all my fellow cat lovers here is cat that follows your mouth
+
+```bash
+onkeo
+```
+
+<img src="./gifs/oneko.gif" width="1000" align="center" />
