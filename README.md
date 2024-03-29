@@ -92,3 +92,13 @@ fortune | cowsay | lolcat
 ```
 
 <img src="./gifs/fortune+cowsay+lolcat.png" width="1000" align="center" />
+
+- lolcat generaly can give any text output a splach of color try piping differnet things to it.
+
+### dispite the name it's actually useful wanna know about toilet?
+
+```bash
+toilet --metal "Mister Meow"
+```
+
+<img src="./gifs/toilet.png" width="1000" align="center" />
