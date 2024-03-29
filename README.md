@@ -22,7 +22,7 @@ sudo apt insatall cmatrix cowsay fortune
 
 ## Let's start the ✨ _fun_ ✨
 
-<br /><br />
+<br />
 
 ### The basics (cmatrix):
 
@@ -35,7 +35,7 @@ camtrix
 
 <img src="./gifs/cmatrix.gif" align="center" />
 
-<br /><br /><br /><br />
+<br />
 
 ### want a train in your terminal
 
@@ -45,7 +45,7 @@ sl
 
 <img src="./gifs/sl.gif" align="center" />
 
-<br /><br /><br /><br />
+<br />
 
 ### How about the a cow that thinks and says whatever you want
 
@@ -61,7 +61,7 @@ cowthink <anything>
 
 <img src="./gifs/cowsay-cowthink.png" width="1000" align="center" />
 
-<br /><br /><br /><br />
+<br />
 
 ### Wouldn't be great if you can know your fortune in you terminal?!
 
@@ -73,7 +73,7 @@ fortune
 
 Ok that wasn't useful.
 
-<br /><br /><br /><br />
+<br />
 
 ### But what if it was said by the wise cow:
 
@@ -83,7 +83,7 @@ fortune | cowsay
 
 <img src="./gifs/fortune+cowsay.png" width="1000" align="center" />
 
-<br /><br /><br /><br />
+<br />
 
 ### It needs more color doesn't it? how about more _lolcat_
 
@@ -95,7 +95,7 @@ fortune | cowsay | lolcat
 
 - lolcat generaly can give any text output a splach of color try piping differnet things to it.
 
-<br /><br /><br /><br />
+<br />
 
 ### dispite the name it's actually useful wanna know about toilet?
 
@@ -112,6 +112,8 @@ while true; do echo "$(date '+%D %T' | toilet -f term -F border --gay)"; sleep 1
 ```
 
 <img src="./gifs/toilet-clock.png" width="1000" align="center" />
+
+<br />
 
 ### Let's start the followers:
 
