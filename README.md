@@ -95,6 +95,8 @@ fortune | cowsay | lolcat
 
 - lolcat generaly can give any text output a splach of color try piping differnet things to it.
 
+<br /><br /><br /><br />
+
 ### dispite the name it's actually useful wanna know about toilet?
 
 ```bash
@@ -102,3 +104,11 @@ toilet --metal "Mister Meow"
 ```
 
 <img src="./gifs/toilet.png" width="1000" align="center" />
+
+toilet can also do some fancy stuff here is a terminal clock made with toilet.
+
+```bash
+while true; do echo "$(date '+%D %T' | toilet -f term -F border --gay)"; sleep 1;clear; done
+```
+
+<img src="./gifs/toilet-clock.png" width="1000" align="center" />
