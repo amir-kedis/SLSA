@@ -54,3 +54,13 @@ cowthink <anything>
 ```
 
 <img src="./gifs/cowsay-cowthink.png" align="center" />
+
+### Wouldn't be great if you can know your fortune in you terminal?!
+
+```bash
+fortune
+```
+
+<img src="./gifs/fortune.png" align="center" />
+
+Ok that wasn't useful.
