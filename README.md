@@ -20,6 +20,8 @@ sudo apt install <app-name>
 sudo apt insatall cmatrix cowsay fortune
 ```
 
+## Let's start the ✨ _fun_ ✨
+
 ### The basics (cmatrix):
 
 Every wanted that matrix movie effect and feel like you're a real hacker, here is your dreams come true:
@@ -38,3 +40,17 @@ sl
 ```
 
 <img src="./gifs/sl.gif" align="center" />
+
+### How about the a cow that thinks and says whatever you want
+
+```bash
+cowsay <anything>
+```
+
+or
+
+```bash
+cowthink <anything>
+```
+
+<img src="./gifs/cowsay-cowthink.png" align="center" />
