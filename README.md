@@ -24,7 +24,7 @@ sudo apt insatall cmatrix cowsay fortune
 
 <br />
 
-### The basics (cmatrix):
+### 🌟 The basics (cmatrix):
 
 Every wanted that matrix movie effect and feel like you're a real hacker, here is your dreams come true:
 just run:
@@ -37,7 +37,7 @@ camtrix
 
 <br />
 
-### want a train in your terminal
+### 🚂 want a train in your terminal
 
 ```bash
 sl
@@ -47,7 +47,7 @@ sl
 
 <br />
 
-### How about the a cow that thinks and says whatever you want
+### 🐮 How about the a cow that thinks and says whatever you want
 
 ```bash
 cowsay <anything>
@@ -63,7 +63,7 @@ cowthink <anything>
 
 <br />
 
-### Wouldn't be great if you can know your fortune in you terminal?!
+### 🥠 Wouldn't be great if you can know your fortune in you terminal?!
 
 ```bash
 fortune
@@ -75,7 +75,7 @@ Ok that wasn't useful.
 
 <br />
 
-### But what if it was said by the wise cow:
+### 🧘 But what if it was said by the wise cow:
 
 ```bash
 fortune | cowsay
@@ -85,7 +85,7 @@ fortune | cowsay
 
 <br />
 
-### It needs more color doesn't it? how about more _lolcat_
+### 🍭It needs more color doesn't it? how about more _lolcat_
 
 ```bash
 fortune | cowsay | lolcat
@@ -97,7 +97,7 @@ fortune | cowsay | lolcat
 
 <br />
 
-### dispite the name it's actually useful wanna know about toilet?
+### 🚽 dispite the name it's actually useful wanna know about toilet?
 
 ```bash
 toilet --metal "Mister Meow"
@@ -115,7 +115,7 @@ while true; do echo "$(date '+%D %T' | toilet -f term -F border --gay)"; sleep 1
 
 <br />
 
-### Let's start the followers:
+### 😸 Let's start the followers:
 
 1. Here are eyes that follows your mouth:
 
