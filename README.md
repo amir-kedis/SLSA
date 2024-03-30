@@ -4,20 +4,20 @@
 
 <h1 align="center">🌶️ SLSA</h1>
 <p>
-    <strong>Silly Linux Shenanigans Archive</strong>: is a silly repo to collect all the fun useless stuff you can do in your terminal in linux.
-    if you want to have fun and have a silly moment with your friends, you may found some of them fun.
+    <strong>Silly Linux Shenanigans Archive</strong>: is a silly repo to collect all the fun useless stuff you can do in your terminal in Linux.
+    if you want to have fun and have a silly moment with your friends, you may find some of them fun.
 </p>
 
-## Installtion of any of the following tools will be probably as follows:
+## Installation of any of the following tools will be probably as follows:
 
 ```bash
 sudo apt install <app-name>
 ```
 
-**example:**
+**Example:**
 
 ```bash
-sudo apt insatall cmatrix cowsay fortune
+sudo apt install cmatrix cowsay fortune
 ```
 
 ## Let's start the ✨ _fun_ ✨
@@ -26,7 +26,7 @@ sudo apt insatall cmatrix cowsay fortune
 
 ### 🌟 The basics (cmatrix):
 
-Every wanted that matrix movie effect and feel like you're a real hacker, here is your dreams come true:
+Ever wanted that matrix movie effect and feel like you're a real hacker, here are your dreams come true:
 just run:
 
 ```bash
@@ -47,7 +47,7 @@ sl
 
 <br />
 
-### 🐮 How about the a cow that thinks and says whatever you want
+### 🐮 How about a cow that thinks and says whatever you want
 
 ```bash
 cowsay <anything>
@@ -63,7 +63,7 @@ cowthink <anything>
 
 <br />
 
-### 🥠 Wouldn't be great if you can know your fortune in you terminal?!
+### 🥠 Wouldn't be great if you could know your fortune in your terminal?!
 
 ```bash
 fortune
@@ -71,7 +71,7 @@ fortune
 
 <img src="./gifs/fortune.png" width="1000" align="center" />
 
-Ok that wasn't useful.
+Ok, that wasn't useful.
 
 <br />
 
@@ -85,7 +85,7 @@ fortune | cowsay
 
 <br />
 
-### 🍭It needs more color doesn't it? how about more _lolcat_
+### 🍭It needs more color, doesn't it? how about more _lolcat_
 
 ```bash
 fortune | cowsay | lolcat
@@ -93,11 +93,11 @@ fortune | cowsay | lolcat
 
 <img src="./gifs/fortune+cowsay+lolcat.png" width="1000" align="center" />
 
-- lolcat generaly can give any text output a splach of color try piping differnet things to it.
+- lolcat generally can give any text output a splash of color try piping different things to it.
 
 <br />
 
-### 🚽 dispite the name it's actually useful wanna know about toilet?
+### 🚽 despite the name it's actually useful wanna know about toilet?
 
 ```bash
 toilet --metal "Mister Meow"
@@ -117,7 +117,7 @@ while true; do echo "$(date '+%D %T' | toilet -f term -F border --gay)"; sleep 1
 
 ### 😸 Let's start the followers:
 
-1. Here are eyes that follows your mouth:
+1. Here are eyes that follow your mouse:
 
 ```bash
 xeyes
@@ -125,7 +125,7 @@ xeyes
 
 <img src="./gifs/xyes.png" width="1000" align="center" />
 
-2. For all my fellow cat lovers here is cat that follows your mouth
+2. For all my fellow cat lovers here is a cat that follows your mouse
 
 ```bash
 onkeo
